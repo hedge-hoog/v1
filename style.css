@@ -11,5 +11,25 @@ h3 {
     font-size: 25 px;
 }
 .color{
-    background-color: darkorchid;
+    color: rgb(214, 141, 250);
+}
+#colors{
+    color: lightblue;
+}
+.coloris{
+    background-color: rgb(181, 247, 247);
+}
+.gogl{
+color: rgb(136, 136, 240);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: initial;
+}
+.yandex{
+color: rgb(236, 58, 58);
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+font-style:inherit;
+}
+.cc{
+    color: blueviolet;
+    font-style:oblique;
 }
