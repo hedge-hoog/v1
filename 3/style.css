@@ -28,8 +28,8 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    color: rgb(215, 242, 255);
-    background-color: #8a448a;
+    color: rgb(255, 255, 255);
+    background-color: #070622;
 }
 
 .logo {
@@ -73,7 +73,7 @@ body {
 .grey {
     border-radius: 20px;
     padding: 30px;
-    background-color: #b8ddff;
+    background-color: #ffffff;
     margin-bottom: 40px;
     
 }
@@ -118,3 +118,4 @@ body {
     margin-bottom: 40px;
     width: 870px;
 }
+
